@@ -12,6 +12,7 @@ List of orders that has been placed
 ---------------------------
 Stories
     1) Create the order form view
+    1a) add ngroute
     2) Create the order form
     3) Plan database schema
     4) Link order form with database via controller
