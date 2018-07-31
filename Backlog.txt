@@ -1,0 +1,20 @@
+Order screen
+    First name
+    last name
+    phone number
+    estimated time pizza will be delivered
+    number of pizzas being rodered
+
+List of orders that has been placed
+    most current on top
+
+
+---------------------------
+Stories
+    1) Create the order form view
+    2) Create the order form
+    3) Plan database schema
+    4) Link order form with database via controller
+        persist data
+    5) Create the order placed view
+    6) Controller to retrieve the data
